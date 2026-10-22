@@ -20,10 +20,8 @@ LCD 16x2의 첫째 줄 첫 글자 한 칸에서 공 캐릭터가 통통 튀어 �
 
 [LCD Character Creator](https://maxpromer.github.io/LCD-Character-Creator/)로 8개 모션 `c0` ~ `c7`을 만들어 CGRAM 슬롯 0~7(8칸 전부)에 저장했습니다.
 
-```
  ![c0 찌그러짐](images/c0.png) ![c1 바닥](images/c1.png) ![c2 도약](images/c2.png) ![c3 중간](images/c3.png) ![c4 최고점](images/c4.png) ![c5 낙하](images/c5.png) ![c6 깜빡](images/c6.png) ![c7 철퍽](images/c7.png)
 
-```
 
 - 도약할 때는 꼬리가 아래(`c2`), 낙하할 때는 꼬리가 위(`c5`)로 가서 진행 방향이 보입니다.
 - 맨 아래 줄은 그림자입니다.
